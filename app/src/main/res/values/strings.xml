@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fantasy EPL League</string>
+    <string name="button_addPlayer">Add Player</string>
+    <string name="hint_playerName">Add a Player to your starting lineup!</string>
+    <string name="hint_playerPosition">Position </string>
+    <string name="menu_addPlayer">Add</string>
+    <string name="menu_cancelPlayer">Cancel</string>
+    <string name="menu_deletePlayer">Delete</string>
+    <string name="enter_player_name"> Please enter a Player Name </string>
+    <string name="save_player"> Save Player </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_player_image">Upload an image of this player</string>
+    <string name="change_player_image">Change uploaded image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="player_image_placeholder">Player Image</string>
+    <string name="player_title_placeholder">Player</string>
+
+</resources>
